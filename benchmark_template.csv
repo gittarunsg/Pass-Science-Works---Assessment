@@ -1,0 +1,2 @@
+workers,repetition,wall_time_s,median_time_s,speedup,efficiency,cpu,physical_cores,logical_cores,ram_gib,compiler,optimization_flags,case_count,elements,warmup,serial_parallel_max_delta_C,launch_to_ready_s,status
+,,,,,,,,,,,,,,,,,NOT RUN - C++ compiler unavailable in authoring environment

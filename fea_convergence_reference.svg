@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420">
+<rect width="100%" height="100%" fill="white"/>
+<text x="400.0" y="28" text-anchor="middle" font-family="Arial" font-size="20">Analytical reference: midpoint error convergence</text>
+<path d="M80 50 V355 H770" fill="none" stroke="#333"/>
+<polyline points="80.0,72.6 310.0,159.8 540.0,246.9 770.0,334.1" fill="none" stroke="#1769aa" stroke-width="3"/>
+<text x="400.0" y="405" text-anchor="middle" font-family="Arial" font-size="14">Element count (10, 20, 40, 80)</text>
+<text x="20" y="210.0" transform="rotate(-90 20 210.0)" text-anchor="middle" font-family="Arial" font-size="14">Max absolute error (C)</text>
+</svg>
